@@ -8,4 +8,8 @@ public class ClasseProva {
 		
 	}
 	
+	private void terzoTest() {
+		System.out.println("Hehe");
+	}
+	
 }
