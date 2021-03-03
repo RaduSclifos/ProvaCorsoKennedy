@@ -4,11 +4,10 @@ public class ClasseProva {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Messaggio richiesto dal capo.");
-		
+		String s = new String("");		
 	}
 	
-	private void terzoTest() {
+	private static void terzoTest() {
 		System.out.println("Hehe");
 	}
 	
